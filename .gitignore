@@ -26,3 +26,6 @@ virtual-scroll*
 班级名单_*
 词汇表_*
 教材词块库.json
+*.mp3
+*.png
+!山河榜背景图.png
